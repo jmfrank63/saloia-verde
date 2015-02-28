@@ -1,2 +1,2 @@
-# solaia-verde
-Website for Solaia food store Lisbon
+# saloia-verde
+Website for Saloia food store Lisbon
